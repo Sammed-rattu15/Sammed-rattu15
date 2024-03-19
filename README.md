@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Sammed-rattu15
-- 👀 I’m interested in Machine Learning and AI DSA
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking for various internship opportunities in Data Science
-- 📫 How to reach me : sammedrattu31@gmail.com
-- 
-- ⚡ Fun fact: I recently started with Data Science and completed my degree in Hotel Management:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sammed B Rattu
+======================================================================================================================================
 
-<!---
-Sammed-rattu15/Sammed-rattu15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Science and Artificial Intelligence
+----------------------------------------
+
+A motivated Data Science Fresher looking to leverage my strong programming skills in Python and R, analytical aptitude and knowledge of data visualizations to effectively analyze, interpret, and present insights from large datasets in an accurate and meaningful way. I have learnt Visualization tools used for analytics such as Power-BI and Tableau. Seeking to collaborate with a leading data science and AI team to develop innovative models to detect patterns and trends for complex data-driven solutions.
+
+* 🌍  I'm based in Bengaluru
+* ✉️  You can contact me at [sammedrattu31@gmail.com](mailto:sammedrattu31@gmail.com)
+* 🧠  I'm learning Python, Machine Learning, Deep Learning, MySQL, Power-BI, Tableau
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Sammed-rattu15/Sammed-Rattu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sammed-rattu-7b45b321b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
