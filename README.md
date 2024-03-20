@@ -9,7 +9,7 @@ A motivated Data Science Fresher looking to leverage my strong programming skill
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [sammedrattu31@gmail.com](mailto:sammedrattu31@gmail.com)
 * 🧠  I'm learning Python, Machine Learning, Deep Learning, MySQL, Power-BI, Tableau
-
+*     I have uploaded my learnings and projects I worked on in my repositories
 ### Skills
 
 
