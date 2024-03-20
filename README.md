@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science and Artificial Intelligence
 ----------------------------------------
 
-A motivated Data Science Fresher looking to leverage my strong programming skills in Python and R, analytical aptitude and knowledge of data visualizations to effectively analyze, interpret, and present insights from large datasets in an accurate and meaningful way. I have learnt Visualization tools used for analytics such as Power-BI and Tableau. Seeking to collaborate with a leading data science and AI team to develop innovative models to detect patterns and trends for complex data-driven solutions.
+A motivated Data Science Fresher looking to leverage my strong programming skills in Python and MySQL, analytical aptitude and knowledge of data visualizations to effectively analyze, interpret, and present insights from large datasets in an accurate and meaningful way. I have learnt Visualization tools used for analytics such as Power-BI and Tableau. Seeking to collaborate with a leading data science and AI team to develop innovative models to detect patterns and trends for complex data-driven solutions.
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [sammedrattu31@gmail.com](mailto:sammedrattu31@gmail.com)
